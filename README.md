@@ -1,6 +1,8 @@
 # Hello! I'm Olzhas Umarov 👋
 
-![snake gif](https://raw.githubusercontent.com/CodeWizardMagic/CodeWizardMagic/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="assets/happy-blue-hair.gif" alt="Profile GIF" width="600"/>
+</p>
 
 ## 🚀 About me
 

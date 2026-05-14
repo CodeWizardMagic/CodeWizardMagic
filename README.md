@@ -1,7 +1,7 @@
 # Hello! I'm Olzhas Umarov 👋
 
 <p align="center">
-  <img src="assets/happy-blue-hair.gif" alt="Profile GIF" width="600"/>
+  <img src="assets/cat-jump.gif" alt="Profile GIF" width="600"/>
 </p>
 
 ## 🚀 About me

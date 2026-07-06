@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olzhasumarov)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWizardMagic)
 
-Software Engineering student from Astana, Kazakhstan 🇰🇿  
+Software Engineer from Astana, Kazakhstan 
 Backend / DevOps Engineer focused on building scalable systems, automation, and reliable infrastructure.
 
 I’m passionate about:
